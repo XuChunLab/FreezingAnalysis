@@ -1,5 +1,5 @@
 # FreezingAnalysis
-Video pixel-based approach to analyze rodent freezing
+Video frame-pixel-based approach to analyze rodent freezing
 
 中文说明:
 videolists改为视频文件保存的路径，格式一致，比如AVI
