@@ -1,5 +1,5 @@
 # FreezingAnalysis
-Video frame-pixel-based approach to analyze rodent freezing
+Video-frame-pixel-based approach to analyze rodent freezing
 
 Requirements:
 Python (3.7+) with opencv-python & ffmpeg pre-installed.
